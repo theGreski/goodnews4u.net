@@ -28,13 +28,12 @@ jobs:
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
         dry-run: true
-        server-dir: public_html/
-        local-dir: ./root/
+        server-dir: public_html/goodnews4u.net/
+        local-dir: ./
         exclude: |
           **/.git*
           **/.git*/**
           **/node_modules/**
           **/cgi-bin/**
-          **/goodnews4u.net/**
           error_log
           fileToExclude.txt
