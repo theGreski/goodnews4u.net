@@ -7,6 +7,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500">
 		<link rel="stylesheet" href="css/style.css">
+		<link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
 	</head>
 	<body>
 		<?php require_once('comms.php'); echo $header; ?>
