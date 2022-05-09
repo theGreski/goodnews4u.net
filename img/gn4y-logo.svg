@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 100" style="enable-background:new 0 0 80 100;" xml:space="preserve">
+	<g>
+		<!--
+		<path id="TOPLEFT" d="m 36.94222,36.638 -27.58680,0 0,-4.65582 22.9310,0 0,-22.53937 4.65582,0 z" style="fill:#0180ab; fill-opacity:1; stroke:none" />
+		<path id="TOPRIGHT" d="m 42.685843,36.638 0,-36.638 4.65582,0 0,31.98154 32.155596,0 0,4.65582 z" style="fill:#4fbdd4; fill-opacity:1; stroke:none" />
+		<path id="BOTTOMLEFT" d="m 36.94222,42.381 -36.94222,0 0,4.65582 32.2864,0 0,40.12700 4.65582,0 z" style="fill:#fec424; fill-opacity:1; stroke:none" />
+		<path id="BOTTOMRIGHT" d="m 42.685843,42.381 27.32573,0 0,4.65582 -22.66991,0 0,52.96318 -4.65582,0 z" style="fill:#e98923; fill-opacity:1; stroke:none" />
+		-->
+		<path id="TOPLEFT" d="m 37,37 -28,0 0,-5 23,0 0,-23 5,0 z" style="fill:#0180ab; fill-opacity:1; stroke:none" />
+		<path id="TOPRIGHT" d="m 43,37 0,-37 5,0 0,32 32,0 0,5 z" style="fill:#4fbdd4; fill-opacity:1; stroke:none" />
+		<path id="BOTTOMLEFT" d="m 37,42 -37,0 0,5 32,0 0,40 5,0 z" style="fill:#fec424; fill-opacity:1; stroke:none" />
+		<path id="BOTTOMRIGHT" d="m 43,42 27,0 0,5 -22,0 0,53 -5,0 z" style="fill:#e98923; fill-opacity:1; stroke:none" />
+	</g>
+</svg>
