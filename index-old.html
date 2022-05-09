@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Good News 4 You</title>
+		<meta charset="utf-8" />
+		<meta name="robots" content="index,follow,noimageindex">
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<meta name="designer" content="3R Web Design">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:100">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		
+		<header>
+			<h1>Good News 4 You</h1>
+			<!--<img src="img/gn4y-logo.svg" class="logo" alt="Good News 4 You" />-->
+			<img src="img/GN4U_LogoBlueTanTeal.svg" class="logo" alt="Good News 4 You" />
+			<nav>
+				<label for='show-menu' class='show-menu'>Menu</label>
+				<input type='checkbox' id='show-menu' role='button'>
+				<ul id='menu'>
+					<li><a href="video.php?title=Good-News">The good news</a></li>
+					<li><a href="gifts.php">Gifts for You</a></li>
+					<li><a href="read.php?title=what-we-believe">What We Believe</a></li>
+					<li><a href='#' onclick="return false">The Good News +</a><ul class='hidden'>
+							<li><a href='testimonies'>Plain and Simple</a></li>
+							<li><a href='testimonies#truestories'>True Stories</a></li>
+						</ul>
+					</li>
+					
+				</ul>
+			</nav>
+		</header>
+		
+		<article>
+			
+			<h6>May I ask you a question?</h6>
+			<h6>Has anyone ever taken a Bible and shown You</h6>
+			<h6>how you can know for sure</h6>
+			<h6>that you're going to heaven?</h6>
+			<h6>God wants us to understand</h6>
+			<h6>Discover the Good News for You <a href="video.php?title=Good-News">Learn more ></a></h6>
+			
+		</article>
+		
+		<video autoplay loop muted src="media/cloud.mp4" type="video/mp4" class="vjs-tech" poster="img/vid-bcg-cloud-3.jpg" id="video-api"></video>
+		
+		<!-- Google Hosted Libraries - jQuery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		
+		<style>
+			html, body {
+				width: 100%;
+				height: 100%;
+			}
+			body {
+				width: 100%;
+				height: 100%;
+				background-color: transparent;
+				background-image: url(img/vid-bcg-cloud-3.jpg);
+				background-size: cover;
+			}
+			header {
+				border: none;
+				background-color: transparent;
+				position: relative;
+				z-index: 3;
+			}
+			header h1 {
+				font-weight: 100;
+				font-size: 5em;
+				color: #FFF;
+				text-shadow: 0px 0px 3px rgba(0,0,0,0.35);
+				z-index: 3;
+			}
+			header .logo {
+				/*height: 7em;
+				margin-left: -0.8em;*/
+				height: 6em;
+				margin-left: 0em;
+				z-index: 3;
+			}
+			header > nav {
+				position: absolute;
+				right: 2em;
+				top: 2em;
+				background: transparent;
+				border: none;
+				z-index: 3;
+			}
+			header > nav > ul {
+				position: absolute;
+				right: 0em;
+				width: 12em;
+				display: none;
+				font-size: 1.0em;
+				background-color: rgba(255,255,255,0.5);
+			}
+			header > nav > ul > li {
+				width: 100%;	
+			}
+			header > nav > ul > li a {
+				text-align: left;
+				width: 100%;
+			}
+			header > nav > ul > li > ul {
+				position: relative;
+				background-color: inherit;
+			}
+			header > nav  ul  li  ul li a {
+				padding-left: 2em;
+				text-align: left;
+			}
+			header li  ul  li {
+				border-bottom: none;
+			}
+			/*Display 'show menu' link*/
+			.show-menu {
+				display: block;
+				width: 6em;
+				position: relative;
+				
+				text-align: center;
+				box-sizing: border-box;
+				color: #fff;
+				font-size: 1.0em;
+				border: thin solid #fff;
+				padding: 0.8em;
+				background: transparent;
+				z-index: 2;
+			}
+			.show-menu:hover {
+				color: #333;
+				background: #fff;
+			}
+			
+
+			article {
+				text-align: center;
+				width: 100%;
+				position: fixed;
+    			top: 50%;
+				left: 50%;
+				-webkit-transform: translate(-50%, -60%); /* Chrome, Safari, Opera */
+				transform: translateX(-50%) translateY(-60%);
+				z-index: 2;
+			}
+			article h6 {
+				display: none;
+				font-size: 4em;
+				font-weight: 100;
+				color: #fff;
+				text-shadow: 0px 0px 2px rgba(0,0,0,0.2);
+			}
+			article h6:last-of-type {
+				margin-top: 6em;
+			}
+			article h6 a {
+				box-sizing: border-box;
+				display: block;
+				font-size: 26%;
+				width: 9em;
+				margin: 6em auto 0 auto;
+				padding: 1em;
+				text-decoration: none;
+				color: inherit;
+				border: thin solid #fff;
+				transition: all 0.2s ease-out 0s;
+			}
+			article h6 a:hover {
+				box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+				background: rgba(255,255,255,0.6);
+				color: #666;
+				border: thin solid #fff;
+			}
+			.vjs-tech {
+    			position: fixed;
+    			top: 50%;
+				left: 50%;
+				
+				min-width: 100%;
+				min-height: 100%;
+				
+				width: auto;
+				height: auto;
+				
+				z-index: 0;
+				
+				-webkit-transform: translate(-50%, -50%); /* Chrome, Safari, Opera */
+				transform: translateX(-50%) translateY(-50%);
+				
+				background: url('img/vid-bcg-cloud-3.jpg') no-repeat;
+				background-size: cover;
+			}
+			
+			@media screen and (max-width: 1030px) {
+				
+				header h1 {
+					font-size: 4em;
+					margin-left: 0.5em;
+				}
+				header .logo {
+					/*height: 6em;
+					margin-left: -0.9em;*/
+					height: 5em;
+					margin-left: -0.1em;
+				}
+				article h6 {
+					font-size: 3.6em;
+				}
+				article h6 a {
+					font-size: 29%;
+				}
+				header > nav > ul > li a {
+					padding: 1.3em 1em 1.1em 1em;
+				}
+				
+			}
+			@media screen and (max-width: 800px) {
+				
+				header h1 {
+					font-size: 3.7em;
+					margin-left: 0.4em;
+				}
+				header .logo {
+					/*height: 5.6em;
+					margin-left: -0.9em;*/
+					height: 4.6em;
+					margin-left: -0.1em;
+				}
+			
+				
+			}
+			@media only screen 
+				and (max-width: 700px)
+				 {
+				
+				header h1 {
+					display: none;
+				}
+				header .logo {
+					/*height: 5em;
+					margin-left: 0em;*/
+					height: 4em;
+					margin-left: 0.2em;
+					margin-top: 0.2em;
+				}
+				header > nav {
+					right: 1em;
+					top: 1em;
+				}
+				header > nav > ul {
+					background-color: rgba(255,255,255,0.9);
+				}
+				article h6 {
+					font-size: 2.6em;
+				}
+				article h6 a {
+					font-size: 33%;
+					width: 9em;
+					margin: 4em auto 0 auto;
+				}
+				
+			}
+		</style>
+		<script>
+			if(/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+				$('#video-api').remove();
+			}
+		</script>
+		<script>
+	
+			(function() {
+		
+				var quotes = $("article > h6");
+				var quoteIndex = -1;
+		
+				function showNextQuote() {
+					++quoteIndex;
+					// Last element have different timing
+					if ((quoteIndex % quotes.length) == (quotes.length - 1)) {
+						
+						quotes.eq(quoteIndex % quotes.length)
+							.fadeIn(1000)
+							.delay(6000)
+							.fadeOut(900, showNextQuote);
+						
+					} else {
+						
+						quotes.eq(quoteIndex % quotes.length)
+							.fadeIn(800)
+							.delay(2300)
+							.fadeOut(700, showNextQuote);
+						
+					}
+				}
+		
+				showNextQuote();
+		
+			})();
+			
+			// Slowdown video
+			// document.getElementById("video-api").playbackRate = 0.9;
+			
+		</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86670806-1', 'auto');
+  ga('send', 'pageview');
+</script>
+	</body>
+</html>
