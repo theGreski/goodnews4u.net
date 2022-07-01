@@ -28,7 +28,7 @@ jobs:
         server: ${{ secrets.ftpserver }}
         username: ${{ secrets.username }}
         password: ${{ secrets.password }}
-        dry-run: true
+        dry-run: false
         server-dir: public_html/goodnews4u.net/
         local-dir: ./
         exclude: |
