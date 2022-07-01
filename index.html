@@ -362,7 +362,6 @@
 			}
 		</style>
 		
-		<!-- Google Analytics -->
 		<script>
 			// Enter current year
 			// (for copyright at the bottom)
@@ -371,18 +370,22 @@
 			if (document.body.contains(curr_year)) {
 				curr_year.innerHTML = new Date().getFullYear();
 			}
-			
-			
+		
+		</script>
+		
+		<!-- Google Analytics -->
+		<script async src='https://www.googletagmanager.com/gtag/js?id=G-SY2VG5RNYM'></script>
+		<script>
 			// Sent analytics if online and on server
 			//
 			if (navigator.onLine && location.hostname.match("goodnews4u.net")) {
-				console.log("You are online [navigator] - Send Google Analytics");
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', 'UA-86670806-1', 'auto');	
-				ga('send', 'pageview');
+			
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-SY2VG5RNYM');
 			}
 		</script>
-		<script async src="https://www.google-analytics.com/analytics.js"></script>
 		<!-- End Google Analytics -->
 	</body>
 </html>
