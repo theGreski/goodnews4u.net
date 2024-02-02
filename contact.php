@@ -52,10 +52,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 	$title = "Contact Us";
 	$message = "
 		<span class='vcard'>
-			<span class='tel'>In the UK call <a href='tel:0845-304-5533' class='link value'>0845-304-5533</a></span><br />
-			<span class='tel'>In The Republic of Ireland call <a href='tel:086-215-7975' class='link value'>086-215-7975</a></span><br />
-			
-			Email: <a class='email link' href='mailto:info@goodnews4u.net'>info@goodnews4u.net</a>
+			Email: <a class='email link' href='mailto:info@goodnews4u.net'>info@goodnews4u.net</a><br>
+			Find us on Facebook: <a class='link' href='https://www.facebook.com/profile.php?id=100064357822102' target='_blank' rel='noreferrer'>Gospel Literature Ireland</a>
 		</span>
 				
 		<strong>Order free products</strong>
@@ -65,14 +63,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 		<input type='text' name='RequerterPhone' placeholder='phone'>
 		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
-		<label><input type='checkbox' name='RequestedItems[]' value='The Perfect Gift [CD]' />The Perfect Gift [CD]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='Highway to Heaven [CD]' />Highway to Heaven [CD]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='Hope in the Storms of Life [CD]' />Hope in the Storms of Life [CD]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='Nothing Happens by Chance [CD]' />Nothing Happens by Chance [CD]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='The World&apos;s Biggest Lie [CD]' />The World&apos;s Biggest Lie [CD]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='The Uniqueness of Christianity [CD]' />The Uniqueness of Christianity [CD]</label>
-		
-		<label><input type='checkbox' name='RequestedItems[]' value='Living Water - Gospel of John [Booklet]' />Living Water - Gospel of John [Booklet]</label>
+		<label><input type='checkbox' name='RequestedItems[]' value='Bible' />The Bible</label>
+		<label><input type='checkbox' name='RequestedItems[]' value='Luke&apos;s gospel' />Luke&apos;s gospel</label>
+		<label><input type='checkbox' name='RequestedItems[]' value='Why Jesus [Booklet]' />Why Jesus [Booklet]</label>
+		<label><input type='checkbox' name='RequestedItems[]' value='Why in the world is there suffering? [Booklet]' />Why in the world is there suffering? [Booklet]</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='God's Answers to Man&apos;s Questions [Booklet]' />God&apos;s Answers to Man's Questions [Booklet]</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Who is the Greatest Man Alive? [Booklet]' />Who is the Greatest Man Alive? [Booklet]</label>
 		
