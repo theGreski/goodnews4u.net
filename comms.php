@@ -44,7 +44,7 @@ $footer = "
 					<li><a href='https://docs.google.com/document/d/e/2PACX-1vQ_9iGqAPm3esHliLyfKZHHKWCRbJdISkILPbfqCHKvvt-sRZOkX3rW_SRoZ6n1JWONX33ZYPiOLbHp/pub' target='_blank' rel='noopener'>Privacy Statement</a></li>
 				</ul>
 			</nav>
-			<div class='copy'>&copy;<script>document.write(new Date().getFullYear())</script> Good News 4You. All Rights Reserved. Web design by <a href='https://eggizoapp.com' target='_blank'>Eggizo App</a></div>
+			<div class='copy'>&copy;<script>document.write(new Date().getFullYear())</script> Good News 4You. All Rights Reserved.</div>
 		</footer>
 ";
 
