@@ -3,7 +3,7 @@ error_reporting(E_ALL | E_STRICT);
 
 
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '') {
 	
 	$RequerterName 		= filter_input(INPUT_POST, "RequerterName", FILTER_SANITIZE_STRING);
 	$RequerterEmail		= filter_input(INPUT_POST, "RequerterEmail", FILTER_SANITIZE_STRING);
@@ -61,6 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 		<input type='text' name='RequerterName' placeholder='Name'>
 		<input type='email' name='RequerterEmail' placeholder='email'>
 		<input type='text' name='RequerterPhone' placeholder='phone'>
+		<div class='fname'><input type='text' name='fname' placeholder='fname' autocomplete='off'></div>
 		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
 		<label><input type='checkbox' name='RequestedItems[]' value='Bible' />The Bible</label>
@@ -137,6 +138,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 			}
 			a[href^="tel"] {
 				pointer-events: none;
+			}
+			.fname {
+				display: none;
 			}
 			
 			@media screen and (max-width: 800px) {
