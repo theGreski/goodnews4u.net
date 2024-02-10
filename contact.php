@@ -61,7 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '') {
 		<input type='text' name='RequerterName' placeholder='Name'>
 		<input type='email' name='RequerterEmail' placeholder='email'>
 		<input type='text' name='RequerterPhone' placeholder='phone'>
-		<div class='fname'><input type='text' name='fname' placeholder='fname' autocomplete='off'></div>
+		<span class='fname'><input type='text' name='fname' placeholder='fname' autocomplete='off'></span>
 		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
 		<label><input type='checkbox' name='RequestedItems[]' value='Bible' />The Bible</label>
