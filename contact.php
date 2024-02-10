@@ -3,7 +3,7 @@ error_reporting(E_ALL | E_STRICT);
 
 
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '') {
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['time'] != '' && ((time() - intval($_POST['time'])) > 5)) {
 	
 	$RequerterName 		= filter_input(INPUT_POST, "RequerterName", FILTER_SANITIZE_STRING);
 	$RequerterEmail		= filter_input(INPUT_POST, "RequerterEmail", FILTER_SANITIZE_STRING);
@@ -61,7 +61,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '') {
 		<input type='text' name='RequerterName' placeholder='Name'>
 		<input type='email' name='RequerterEmail' placeholder='email'>
 		<input type='text' name='RequerterPhone' placeholder='phone'>
-		<span class='fname'><input type='text' name='fname' placeholder='fname' autocomplete='off'></span>
+		<span class='fname'>
+			<input type='text' name='fname' placeholder='fname' autocomplete='off'>
+			<input type='text' name='time' value='".time()."' autocomplete='off'>
+		</span>
 		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
 		<label><input type='checkbox' name='RequestedItems[]' value='Bible' />The Bible</label>
