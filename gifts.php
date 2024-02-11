@@ -28,6 +28,12 @@
 					<h4>The Bible</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
+
+				<div>
+					<img src="img/lukesgospel.jpg" />
+					<h4>Luke's gospel</h4>
+					<a href='contact' class='button btn-grey media-button'>Request One</a>
+				</div>
 				
 				<div>
 					<img src="img/GodAnswersManQuestions_SM.jpg" />
