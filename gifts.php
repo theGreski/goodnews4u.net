@@ -40,6 +40,12 @@
 					<h4>Why Jesus</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
+
+				<div>
+					<img src="img/WhyInTheWorldIsThereSuffering.jpg" />
+					<h4>Why in the world is there suffering?</h4>
+					<a href='contact' class='button btn-grey media-button'>Request One</a>
+				</div>
 				
 				<div>
 					<img src="img/GodAnswersManQuestions_SM.jpg" />
