@@ -73,15 +73,6 @@
 				
 			</section>
 			
-			<div class='free-gift-offer'>If you would like to order one of the free gifts, please click 
-			<a href='contact' class='button btn-yellow'>Request One</a></div>
-			
-			<h2>Gift Booklets</h2>
-			
-			
-			<div class='free-gift-offer'>If you would like to order one of the free gifts, please click 
-			<a href='contact' class='button btn-yellow'>Request One</a></div>
-			
 		</article>
 		
 		<?php require_once('comms.php'); echo $footer; ?>
