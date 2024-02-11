@@ -30,6 +30,12 @@
 				</div>
 
 				<div>
+					<img src="img/johnsgospel.jpg" />
+					<h4>John's Gospel - Parallel edition in English and Irish</h4>
+					<a href='contact' class='button btn-grey media-button'>Request One</a>
+				</div>
+
+				<div>
 					<img src="img/lukesgospel.jpg" />
 					<h4>Luke's gospel</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
