@@ -50,14 +50,12 @@
 				<div>
 					<img src="img/GodAnswersManQuestions_SM.jpg" />
 					<h4>God's Answers to Man's Questions</h4>
-					<p>If you are not a follower of Christ and are interested in the subject, you should find this booklet helpful. The Christian message is presented here as a series of questions and answers&mdash;the kind of questions you might ask and answers based directly from the Bible.</p>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
 					<img src="img/TheGreatestManAlive.jpg" />
 					<h4>Who is the Greatest Man Alive?</h4>
-					<p>The Bible was written for ordinary people to enjoy. "Who is The Greatest Man Alive?" is a brief and helpful booklet guiding you through an introduction to Jesus Christ and what knowing him personally can mean to you.</p>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 				
