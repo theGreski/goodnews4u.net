@@ -34,6 +34,12 @@
 					<h4>Luke's gospel</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
+
+				<div>
+					<img src="img/whyjesus.png" />
+					<h4>Why Jesus</h4>
+					<a href='contact' class='button btn-grey media-button'>Request One</a>
+				</div>
 				
 				<div>
 					<img src="img/GodAnswersManQuestions_SM.jpg" />
