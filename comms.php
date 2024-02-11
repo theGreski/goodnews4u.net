@@ -15,6 +15,7 @@ $header = "
 							<li><a href='video?title=The-Gospel'>The Gospel</a></li>
 						</ul>
 					</li>
+					<li><a href='audio'>Audio</a></li>
 					<li><a href='gifts'>Free Offer</a></li>
 					<li><a href='testimonies' onclick='return false'>Testimonies +</a><ul class='hidden'>
 							<li><a href='testimonies'>Plain and Simple</a></li>
