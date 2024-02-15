@@ -16,10 +16,10 @@
 		<?php require_once('comms.php'); echo $header; ?>
 		
 		<article>
-			<h1>Free Offer</h1>
-			<div class="subtitle">God's good news is free for all. These gifts offered to you are designed to help you in your spiritual search for the truth with no obligation or cost.</div>
+			<h1>Listen to Audio recordings</h1>
+			<div class="subtitle">God's good news is free for all. Below are some relevant Audio talks based on the Bible that will explain this good news to you in more detail. Please click on "Download" or "Listen." to start each talk.</div>
 			
-			<h2>Listen to the audio recordings</h2>
+			<!--<h2>Listen to the audio recordings</h2>-->
 			
 			<section class="gifts">
   				<div>
