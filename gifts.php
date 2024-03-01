@@ -42,7 +42,7 @@
 				</div>
 
 				<div>
-					<img src="img/whyjesus.png" />
+					<img src="img/whyjesus.jpg" />
 					<h4>Why Jesus</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
