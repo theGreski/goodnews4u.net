@@ -78,7 +78,7 @@
 					<h4>Can a God of love command destruction on people</h4>
 				</a>
 				<a href="read?title=did-jesus-claim-to-be-god">
-					<img src="img/jesus-god-or-man.png" />
+					<img src="img/jesus-god-or-man.jpg" />
 					<h4>Did Jesus claim to be God?</h4>
 				</a>
 				<a href="read?title=how-could-a-good-god-allow-evil-in-the-world">
