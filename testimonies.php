@@ -19,11 +19,11 @@
 			<h1>Plain and Simple</h1>
 			<section id="articles">
   				<a href="read?title=two-of-lifes-most-important-words">
-					<img src="img/SavedFaith.jpg" />
+					<img src="img/SavedFaith.jpg" loading="lazy" />
 					<h4>Two of Life's Most Important Words</h4>
 				</a>
 				<a href="read?title=the-worlds-most-famous-sentence-explained">
-					<img src="img/WorldinHands.jpg" />
+					<img src="img/WorldinHands.jpg" loading="lazy" />
 					<h4>The World's Most Famous Sentence Explained</h4>
 				</a>
 				<a href="read?title=the-simple-gospel">
@@ -31,11 +31,11 @@
 					<h4>The Simple Gospel</h4>
 				</a>
 				<a href="read?title=the-good-news-as-simple-as-it-gets">
-					<img src="img/sharing-the-good-news.jpg" />
+					<img src="img/sharing-the-good-news.jpg" loading="lazy" />
 					<h4>The Good News - as simple as it gets</h4>
 				</a>
 				<a href="read?title=give-it-to-me-straight">
-					<img src="img/GUWG-Bible-Path.gif" />
+					<img src="img/GUWG-Bible-Path.gif" loading="lazy" />
 					<h4>Give it to Me Straight</h4>
 				</a>
 			</section>
@@ -45,35 +45,35 @@
 			<h1>True Stories</h1>
 			<section id="articles">
 				<a href="read?title=twice-purchased">
-					<img src="img/CryingBoy.jpg" />
+					<img src="img/CryingBoy.jpg" loading="lazy" />
 					<h4>Twice Purchased</h4>
 				</a>
 				<a href="read?title=rescue-at-pearl-harbor">
-					<img src="img/Warplanes.jpg" />
+					<img src="img/Warplanes.jpg" loading="lazy" />
 					<h4>Rescue at Pearl Harbor</h4>
 				</a>
 				<a href="read?title=a-priest-unknown-to-god">
-					<img src="img/PriestHands-Questions.jpg" />
+					<img src="img/PriestHands-Questions.jpg" loading="lazy" />
 					<h4>A Priest Unknown to God</h4>
 				</a>
 				<a href="read?title=the-hard-way-home">
-					<img src="img/HardWayHome-cropped.jpg" />
+					<img src="img/HardWayHome-cropped.jpg" loading="lazy" />
 					<h4>The Hard Way Home</h4>
 				</a>
 				<a href="read?title=erics-secret">
-					<img src="img/CarSnow-cropped.jpg" />
+					<img src="img/CarSnow-cropped.jpg" loading="lazy" />
 					<h4>Eric's Secret</h4>
 				</a>
 				<a href="read?title=what-the-cannibal-was-hungry-for">
-					<img src="img/AfricanSpearShield.jpg" />
+					<img src="img/AfricanSpearShield.jpg" loading="lazy" />
 					<h4>What the Cannibal Was Hungry For</h4>
 				</a>
 				<a href="read?title=carl-greer-gets-life">
-					<img src="img/GetsLife.jpg" />
+					<img src="img/GetsLife.jpg" loading="lazy" />
 					<h4>Carl Greer Gets Life</h4>
 				</a>
 				<a href="read?title=the-nail-pierced-hand">
-					<img src="img/BarbedWireWall.jpg" />
+					<img src="img/BarbedWireWall.jpg" loading="lazy" />
 					<h4>The Nail-Pierced Hand</h4>
 				</a>
 			</section>

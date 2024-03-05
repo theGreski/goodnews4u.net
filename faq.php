@@ -74,23 +74,23 @@
 			<h1>Questions People Ask</h1>
 			<section id="articles">
 				<a href="read?title=can-a-god-of-love-command-destruction-on-people">
-					<img src="img/AFathersLove.jpg" />
+					<img src="img/AFathersLove.jpg" loading="lazy" />
 					<h4>Can a God of love command destruction on people</h4>
 				</a>
 				<a href="read?title=did-jesus-claim-to-be-god">
-					<img src="img/jesus-god-or-man.jpg" />
+					<img src="img/jesus-god-or-man.jpg" loading="lazy" />
 					<h4>Did Jesus claim to be God?</h4>
 				</a>
 				<a href="read?title=how-could-a-good-god-allow-evil-in-the-world">
-					<img src="img/whydoesgodallowevil.jpg" />
+					<img src="img/whydoesgodallowevil.jpg" loading="lazy" />
 					<h4>How could a good God allow evil in the world?</h4>
 				</a>
 				<a href="read?title=what-about-a-good-buddhist-or-hindu">
-					<img src="img/buddhahindu.jpg" />
+					<img src="img/buddhahindu.jpg" loading="lazy" />
 					<h4>What about a good Buddhist or Hindu?</h4>
 				</a>
 				<a href="read?title=did-jesus-really-rise-from-the-dead">
-					<img src="img/jesus-resurrection.jpg" />
+					<img src="img/jesus-resurrection.jpg" loading="lazy" />
 					<h4>Did Jesus really rise from the dead?</h4>
 				</a>
 			</section>
@@ -100,135 +100,135 @@
 			<h1>Science &amp; You</h1>
 			<section id="articles">
   				<a href="read?title=the-sound-of-music">
-					<img src="img/FrogCalling_sm.jpg" />
+					<img src="img/FrogCalling_sm.jpg" loading="lazy" />
 					<h4>The Sound of Music</h4>
 				</a>
 				<a href="read?title=SETI-in-their-ways">
-					<img src="img/SETI_Alien.jpg" />
+					<img src="img/SETI_Alien.jpg" loading="lazy" />
 					<h4>SETI in Their Ways</h4>
 				</a>
 				<a href="read?title=is-god-dead-or-just-improbable">
-					<img src="img/GodProbable.jpg" />
+					<img src="img/GodProbable.jpg" loading="lazy" />
 					<h4>Is God Dead? Or Just Improbable?</h4>
 				</a>
 				<a href="read?title=et-please-call-home">
-					<img src="img/ETcallHome.jpg" />
+					<img src="img/ETcallHome.jpg" loading="lazy" />
 					<h4>E.T., Please Call Home</h4>
 				</a>
 				<a href="read?title=which-came-first">
-					<img src="img/Protein_DNA_HumanCell.jpg" />
+					<img src="img/Protein_DNA_HumanCell.jpg" loading="lazy" />
 					<h4>Which Came First?</h4>
 				</a>
 				<a href="read?title=avian-olympians">
-					<img src="img/AvianOlympics.jpg" />
+					<img src="img/AvianOlympics.jpg" loading="lazy" />
 					<h4>Avian Olympians</h4>
 				</a>
 				<a href="read?title=the-new-straw-man">
-					<img src="img/Scarecrow_StrawMan.jpg" />
+					<img src="img/Scarecrow_StrawMan.jpg" loading="lazy" />
 					<h4>The New Straw Man</h4>
 				</a>
 				<a href="read?title=too-hot-too-cold-ah-just-right">
-					<img src="img/thermostat.jpg" />
+					<img src="img/thermostat.jpg" loading="lazy" />
 					<h4>Too Hot, Too Cold.... ah Just Right!</h4>
 				</a>
 				<a href="read?title=the-web-of-life">
-					<img src="img/WebLife.jpg" />
+					<img src="img/WebLife.jpg" loading="lazy" />
 					<h4>The Web of Life</h4>
 				</a>
 				<a href="read?title=darwin-you-have-failed-us">
-					<img src="img/CharlesDarwin.jpg" />
+					<img src="img/CharlesDarwin.jpg" loading="lazy" />
 					<h4>Darwin, You Have Failed Us!</h4>
 				</a>
 				<a href="read?title=scientific-secrets">
-					<img src="img/ScienceSecrets.jpg" />
+					<img src="img/ScienceSecrets.jpg" loading="lazy" />
 					<h4>Scientific Secrets</h4>
 				</a>
 				<a href="read?title=readers-guide-to-the-origins-debate">
-					<img src="img/origin_evol_life.gif" />
+					<img src="img/origin_evol_life.gif" loading="lazy" />
 					<h4>Reader's guide to the origins debate</h4>
 				</a>
 				<a href="read?title=survivor">
-					<img src="img/JustFlipEm-HorsshoeCrab.jpg" />
+					<img src="img/JustFlipEm-HorsshoeCrab.jpg" loading="lazy" />
 					<h4>Survivor</h4>
 				</a>
 				<a href="read?title=synthetic-life">
-					<img src="img/CultureDishScience.jpg" />
+					<img src="img/CultureDishScience.jpg" loading="lazy" />
 					<h4>Synthetic Life</h4>
 				</a>
 				<a href="read?title=purpose-by-design">
-					<img src="img/HumanCells.jpg" />
+					<img src="img/HumanCells.jpg" loading="lazy" />
 					<h4>Purpose By Design</h4>
 				</a>
 				<a href="read?title=bearing-strangers">
-					<img src="img/Xenophora_web.jpg" />
+					<img src="img/Xenophora_web.jpg" loading="lazy" />
 					<h4>Bearing Strangers</h4>
 				</a>
 				<a href="read?title=denial-to-discovery">
-					<img src="img/AntonyFlew_headshot_SM.jpg" />
+					<img src="img/AntonyFlew_headshot_SM.jpg" loading="lazy" />
 					<h4>Denial to Discovery</h4>
 				</a>
 				<a href="read?title=in-the-beginning">
-					<img src="img/LynxArc.jpg" />
+					<img src="img/LynxArc.jpg" loading="lazy" />
 					<h4>In the Beginning</h4>
 				</a>
 				<a href="read?title=forensic-universe">
-					<img src="img/ForensicUniverse.jpg" />
+					<img src="img/ForensicUniverse.jpg" loading="lazy" />
 					<h4>Forensic Universe</h4>
 				</a>
 				<a href="read?title=fish-food">
-					<img src="img/cookedFish_web.jpg" />
+					<img src="img/cookedFish_web.jpg" loading="lazy" />
 					<h4>Fish Food</h4>
 				</a>
 				<a href="read?title=spiritual-signs-and-symptoms">
-					<img src="img/doctorSeriousScrubs.jpg" />
+					<img src="img/doctorSeriousScrubs.jpg" loading="lazy" />
 					<h4>Spiritual Signs and Symptoms</h4>
 				</a>
 				<a href="read?title=wise-man">
-					<img src="img/ThinkingGuy_web.jpg" />
+					<img src="img/ThinkingGuy_web.jpg" loading="lazy" />
 					<h4>Wise Man?</h4>
 				</a>
 				<a href="read?title=the-world-as-we-know-it">
-					<img src="img/WeGoBeach.jpg" />
+					<img src="img/WeGoBeach.jpg" loading="lazy" />
 					<h4>The World as We Know It</h4>
 				</a>
 				<a href="read?title=unseen-reality">
-					<img src="img/MagneticField.jpg" />
+					<img src="img/MagneticField.jpg" loading="lazy" />
 					<h4>Unseen Reality</h4>
 				</a>
 				<a href="read?title=the-grand-illusion">
-					<img src="img/FeatherBlue.jpg" />
+					<img src="img/FeatherBlue.jpg" loading="lazy" />
 					<h4>The Grand Illusion</h4>
 				</a>
 				<a href="read?title=the-wonderful-net">
-					<img src="img/HeronSilhouette.jpg" />
+					<img src="img/HeronSilhouette.jpg" loading="lazy" />
 					<h4>The Wonderful Net</h4>
 				</a>
 				<a href="read?title=the-power-of-prediction">
-					<img src="img/BigCrowdStairs.jpg" />
+					<img src="img/BigCrowdStairs.jpg" loading="lazy" />
 					<h4>The Power of Prediction</h4>
 				</a>
 				<a href="read?title=surprised-by-design">
-					<img src="img/MicroscopeFace.jpg" />
+					<img src="img/MicroscopeFace.jpg" loading="lazy" />
 					<h4>Surprised by Design</h4>
 				</a>
 				<a href="read?title=which-forever-is-coming">
-					<img src="img/FutureLightBlurs.jpg" />
+					<img src="img/FutureLightBlurs.jpg" loading="lazy" />
 					<h4>Which Forever is Coming?</h4>
 				</a>
 				<a href="read?title=small-may-be-big-but-it-isnt-new">
-					<img src="img/nanotech.jpg" />
+					<img src="img/nanotech.jpg" loading="lazy" />
 					<h4>Small May Be Big, but It Isn't New</h4>
 				</a>
 				<a href="read?title=the-miracle-and-mystery-of-life">
-					<img src="img/PlaneModel.jpg" />
+					<img src="img/PlaneModel.jpg" loading="lazy" />
 					<h4>The Miracle and Mystery of Life</h4>
 				</a>
 				<a href="read?title=theres-no-place-like-home">
-					<img src="img/Spacewalk.jpg" />
+					<img src="img/Spacewalk.jpg" loading="lazy" />
 					<h4>There's No Place Like Home</h4>
 				</a>
 				<a href="read?title=the-fingerprint-of-god">
-					<img src="img/Fetus.jpg" />
+					<img src="img/Fetus.jpg" loading="lazy" />
 					<h4>The Fingerprint of God</h4>
 				</a>
 			</section>
@@ -239,11 +239,11 @@
 			<h1>Funny You Should Ask</h1>
 			<section id="articles">
 				<a href="read?title=there-are-all-kinds-of-problems-in-the-bible-for-example-where-did-cain-get-his-wife">
-					<img src="img/cainwife.jpg" />
+					<img src="img/cainwife.jpg" loading="lazy" />
 					<h4>There are all kinds of problems in the Bible. For example, where did Cain get his wife?</h4>
 				</a>
 				<a href="read?title=is-it-true-that-god-can-do-anything-can-he-make-a-rock-that-is-too-big-for-him-to-lift">
-					<img src="img/GlobeinHands.jpg" />
+					<img src="img/GlobeinHands.jpg" loading="lazy" />
 					<h4>Is it true that God can do anything? Can He make a rock that is too big for Him to lift?</h4>
 				</a>
 			</section>

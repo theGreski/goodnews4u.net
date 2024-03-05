@@ -24,43 +24,43 @@
 			<section class="gifts">
   				
 				<div>
-					<img src="img/thebible.jpg" />
+					<img src="img/thebible.jpg" loading="lazy" />
 					<h4>The Bible</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/johnsgospel.jpg" />
+					<img src="img/johnsgospel.jpg" loading="lazy" />
 					<h4>John's Gospel - Parallel edition in English and Irish</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/lukesgospel.jpg" />
+					<img src="img/lukesgospel.jpg" loading="lazy" />
 					<h4>Luke's gospel</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/whyjesus.jpg" />
+					<img src="img/whyjesus.jpg" loading="lazy" />
 					<h4>Why Jesus</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/WhyInTheWorldIsThereSuffering.jpg" />
+					<img src="img/WhyInTheWorldIsThereSuffering.jpg" loading="lazy" />
 					<h4>Why in the world is there suffering?</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 				
 				<div>
-					<img src="img/GodAnswersManQuestions_SM.jpg" />
+					<img src="img/GodAnswersManQuestions_SM.jpg" loading="lazy" />
 					<h4>God's Answers to Man's Questions</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/TheGreatestManAlive.jpg" />
+					<img src="img/TheGreatestManAlive.jpg" loading="lazy" />
 					<h4>Who is the Greatest Man Alive?</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>

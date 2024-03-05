@@ -23,35 +23,35 @@
 			
 			<section class="gifts">
   				<div>
-					<img src="img/GIFT_CDpreview_SM.jpg" />
+					<img src="img/GIFT_CDpreview_SM.jpg" loading="lazy" />
 					<h4>The Perfect Gift</h4>
 					<p>If there is an ultimate gift that is ideal for every person on earth, wouldn&rsquo;t you want to know about it? It would have to be one-size-fits-all. Unbreakable. Never wears out. Just what everyone wants. Whatever would it be? Listen to find out.</p>
 					<a href="media/ThePerfectGift.mp3" class="button btn-grey media-button">Download</a><a href="play?title=The-Perfect-Gift" class="button btn-grey media-button">Listen</a>
 				</div>
 				
 				<div>
-					<img src="img/HTH_CDpreview_SM.jpg" />
+					<img src="img/HTH_CDpreview_SM.jpg" loading="lazy" />
 					<h4>Highway to Heaven</h4>
 					<p>We invite you to take this CD for a spin. Hear on "Highway to Heaven" about the ultimate guide for your journey through life and beyond. A very helpful message to take with you.</p>
 					<a href="media/HighwaytoHeaven.mp3" class="button btn-grey media-button">Download</a><a href="play?title=Highway-to-Heaven" class="button btn-grey media-button">Listen</a>
 				</div>
 				
 				<div>
-					<img src="img/HSL_CDpreview_SM.jpg" />
+					<img src="img/HSL_CDpreview_SM.jpg" loading="lazy" />
 					<h4>Hope in the Storms of Life</h4>
 					<p>When life gets rough...really ROUGH, and when human help isn't enough where do you turn? There really are only a few options - You can pretend it will be ok, you can drown in despair or you can find real and certain hope. This audio message describes how to find hope even in the middle of very difficult circumstances.</p>
 					<a href="media/HopeintheStormsofLife.mp3" class="button btn-grey media-button">Download</a><a href="play?title=Hope-in-the-Storms-of-Life" class="button btn-grey media-button">Listen</a>
 				</div>
 				
 				<div>
-					<img src="img/NHBC_CDpreview_SM.jpg" />
+					<img src="img/NHBC_CDpreview_SM.jpg" loading="lazy" />
 					<h4>Nothing Happens by Chance</h4>
 					<p>Sometimes life seems so random. Does anyone know what you are going through? Does anybody care? Give Best-Selling author William MacDonald just ten minutes of your time and listen to see just how much God cares about you.</p>
 					<a href="media/NothingHappensbyChance.mp3" class="button btn-grey media-button">Download</a><a href="play?title=Nothing-Happens-by-Chance" class="button btn-grey media-button">Listen</a>
 				</div>
 				
 				<div>
-					<img src="img/WBL_CDpreview_SM.jpg" />
+					<img src="img/WBL_CDpreview_SM.jpg" loading="lazy" />
 					<h4>The World's Biggest Lie</h4>
 					<p>Here are some big lies overheard in your town lately:</p>
 					<ul>
@@ -65,7 +65,7 @@
 				</div>
 				
 				<div>
-					<img src="img/TUC_CDpreview_SM.jpg" />
+					<img src="img/TUC_CDpreview_SM.jpg" loading="lazy" />
 					<h4>The Uniqueness of Christianity</h4>
 					<p>With hundreds of thousands of this CD already in circulation, you'll want to listen to "The Uniqueness of Christianity." There's nothing else like this good news.</p>
 					<a href="media/TheUniquenessofChristianity.mp3" class="button btn-grey media-button">Download</a><a href="play?title=The-Uniqueness-of-Christianity"  class="button btn-grey media-button">Listen</a>
