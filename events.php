@@ -23,8 +23,9 @@
 				Each year, we visit different agricultural shows across the Island of Ireland and distribute free Christian Literature and reusable John 3 v 16 shopping bags. 
 				If you have visited our stand at an event and would like to request more information or get in contact with us, please visit our <a href="contact">contact page</a>, 
 				and we will be happy to send you the items requested.
-				<br /><strong>Events</strong><br /><br />
+				<strong>Events</strong>
 				In 2024 we hope to visit the following events, would love you to come and visit us on our stand, which is called <b>Gospel Literature Ireland</b>:<br />
+				<br />
 				<br />
 				15-18 May - Balmoral Show, Co Antrim<br />
 				9th June - Dundalk Show, Co Louth<br />
@@ -34,7 +35,7 @@
 				11th August - Tullamore Show, Co Offaly<br />
 				21st August - Virginia Show, Co Cavan<br />
 				17-19th September - National Ploughing Championships<br />
-				<br />
+				<br /><br />
 				To receive up-to-date details of where we will be and our stand numbers within each showground, please like our Facebook page - <b>Gospel Literature Ireland</b>. 
 			</p>
 		</article>
