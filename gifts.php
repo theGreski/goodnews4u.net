@@ -24,8 +24,8 @@
 			<section class="gifts">
   				
 				<div>
-					<img src="img/thebible.jpg" loading="lazy" />
-					<h4>The Bible</h4>
+					<img src="img/newtestament.jpg" loading="lazy" />
+					<h4>New Testament</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 

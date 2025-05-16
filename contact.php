@@ -67,7 +67,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['ti
 		</span>
 		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
-		<label><input type='checkbox' name='RequestedItems[]' value='Bible' />The Bible</label>
+		<label><input type='checkbox' name='RequestedItems[]' value='New Testament' />New Testament</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Luke&apos;s gospel' />John&apos;s Gospel - Parallel edition in English and Irish</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Luke&apos;s gospel' />Luke&apos;s gospel</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Why Jesus [Booklet]' />Why Jesus [Booklet]</label>
