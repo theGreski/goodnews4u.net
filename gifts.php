@@ -53,11 +53,11 @@
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 				
-				<div>
+				<!--<div>
 					<img src="img/GodAnswersManQuestions_SM.jpg" loading="lazy" />
 					<h4>God's Answers to Man's Questions</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
-				</div>
+				</div>-->
 
 				<div>
 					<img src="img/TheGreatestManAlive.jpg" loading="lazy" />

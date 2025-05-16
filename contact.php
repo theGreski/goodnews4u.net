@@ -72,7 +72,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['ti
 		<label><input type='checkbox' name='RequestedItems[]' value='Luke&apos;s gospel' />Luke&apos;s gospel</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Why Jesus [Booklet]' />Why Jesus [Booklet]</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Why in the world is there suffering? [Booklet]' />Why in the world is there suffering? [Booklet]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='God's Answers to Man&apos;s Questions [Booklet]' />God&apos;s Answers to Man's Questions [Booklet]</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Who is the Greatest Man Alive? [Booklet]' />Who is the Greatest Man Alive? [Booklet]</label>
 		
 		<textarea name='RequerterMessage' placeholder='Your personal note or message'></textarea>
