@@ -24,18 +24,20 @@
 				If you have visited our stand at an event and would like to request more information or get in contact with us, please visit our <a href="contact">contact page</a>, 
 				and we will be happy to send you the items requested.
 				<strong>Events</strong>
-				In 2025 we hope to visit the following events, would love you to come and visit us on our stand, which is called <b>Gospel Literature Ireland</b>:<br />
+				In 2026 we hope to visit the following events, would love you to come and visit us on our stand, which is called <b>Gospel Literature Ireland</b>:<br />
 				<br />
 				<br />
-				14-17 May - Balmoral Show, Co Antrim<br />
-				1-2 June - Innishannon Vintage Rally, Co. Cork<br />
-				8th June - Dundalk Show, Co Louth<br />
-				21st June - Gorey Show, Co Wexford<br />
-				26th June - Antrim Show, Co. Antrim<br />
-				4th August - Tinahely Show, Co Wicklow<br />
-				5 &amp; 6th August - Clonmany Show, Co Donegal<br />
-				10th August - Tullamore Show, Co Offaly<br />
-				16-18th September - National Ploughing Championships<br />
+				13-16 May - Balmoral Show, Co Antrim<br />
+				31 May - 1 June - Innishannon Vintage Rally, Co. Cork<br />
+				14th June - Dundalk Show, Co Louth<br />
+				20th June - Gorey Show, Co Wexford<br />
+				21st June - Newcastle West Show, Co. Limerick TBC<br />
+				27-28 June - Charleville Show, Co. Antrim TBC<br />
+				25th July - Antrim Show, Co. Antrim<br />
+				3rd August - Tinahely Show, Co Wicklow<br />
+				4 &amp; 5th August - Clonmany Show, Co Donegal<br />
+				9th August - Tullamore Show, Co Offaly<br />
+				15-17 September - National Ploughing Championships<br />
 				<br /><br />
 				To receive up-to-date details of where we will be and our stand numbers within each showground, please like our Facebook page - <b>Gospel Literature Ireland</b>. 
 			</p>
