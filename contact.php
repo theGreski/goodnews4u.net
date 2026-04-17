@@ -5,11 +5,11 @@ error_reporting(E_ALL | E_STRICT);
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['time'] != '' && ((time() - intval($_POST['time'])) > 5)) {
 	
-	$RequerterName 		= filter_input(INPUT_POST, "RequerterName", FILTER_SANITIZE_STRING);
-	$RequerterEmail		= filter_input(INPUT_POST, "RequerterEmail", FILTER_SANITIZE_STRING);
-	$RequerterPhone		= filter_input(INPUT_POST, "RequerterPhone", FILTER_SANITIZE_STRING);
-	$RequerterAddress	= filter_input(INPUT_POST, "RequerterAddress", FILTER_SANITIZE_STRING);
-	$RequerterMessage	= filter_input(INPUT_POST, "RequerterMessage", FILTER_SANITIZE_STRING);
+	$RequesterName 		= filter_input(INPUT_POST, "RequesterName", FILTER_SANITIZE_STRING);
+	$RequesterEmail		= filter_input(INPUT_POST, "RequesterEmail", FILTER_SANITIZE_STRING);
+	$RequesterPhone		= filter_input(INPUT_POST, "RequesterPhone", FILTER_SANITIZE_STRING);
+	$RequesterAddress	= filter_input(INPUT_POST, "RequesterAddress", FILTER_SANITIZE_STRING);
+	$RequesterMessage	= filter_input(INPUT_POST, "RequesterMessage", FILTER_SANITIZE_STRING);
 	$RequestedItems		= filter_input(INPUT_POST, "RequestedItems", FILTER_DEFAULT, FILTER_REQUIRE_ARRAY);
 	
 	$itemlist = "";
@@ -27,12 +27,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['ti
 	
 	$to      		= "info@goodnews4u.net";
 	$subject 		= "Website Contact";
-	$body	 		= $RequerterName . "\r\n\r\nRequested:\r\n" . $itemlist . "\r\n\r\nDelivery to:\r\n\r\n" . $RequerterAddress . "\r\n\r\nMessage:\r\n\r\n" . $RequerterMessage . "\r\n\r\nContact details:\r\n\r\nE-mail: " . $RequerterEmail . "\r\nPhone: " . $RequerterPhone;
+	$body	 		= $RequesterName . "\r\n\r\nRequested:\r\n" . $itemlist . "\r\n\r\nDelivery to:\r\n\r\n" . $RequesterAddress . "\r\n\r\nMessage:\r\n\r\n" . $RequesterMessage . "\r\n\r\nContact details:\r\n\r\nE-mail: " . $RequesterEmail . "\r\nPhone: " . $RequesterPhone;
 	
-	if (filter_var($RequerterEmail, FILTER_VALIDATE_EMAIL)) {
+	if (filter_var($RequesterEmail, FILTER_VALIDATE_EMAIL)) {
 	
-		$headers = "From: " . $RequerterName . " <" . $RequerterEmail . ">" . "\r\n";
-		$headers.= "Reply-To: " . $RequerterName . " <" . $RequerterEmail . ">" . "\r\n";
+		$headers = "From: " . $RequesterName . " <" . $RequesterEmail . ">" . "\r\n";
+		$headers.= "Reply-To: " . $RequesterName . " <" . $RequesterEmail . ">" . "\r\n";
 	
 	} else {
 	
@@ -58,22 +58,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['fname'] == '' && $_POST['ti
 				
 		<strong>Order free products</strong>
 		<span class='order-explanation'>(please tick beside an item you like to receive, provide us with your address and click on submit button)</span>
-		<input type='text' name='RequerterName' placeholder='Name'>
-		<input type='email' name='RequerterEmail' placeholder='email'>
-		<input type='text' name='RequerterPhone' placeholder='phone'>
+		<input type='text' name='RequesterName' placeholder='Name'>
+		<input type='email' name='RequesterEmail' placeholder='email'>
+		<input type='text' name='RequesterPhone' placeholder='phone'>
 		<span class='fname'>
 			<input type='text' name='fname' placeholder='fname' autocomplete='off'>
 			<input type='text' name='time' value='".time()."' autocomplete='off'>
 		</span>
-		<textarea name='RequerterAddress' placeholder='Include your delivery address for these resources'></textarea>
+		<textarea name='RequesterAddress' placeholder='Include your delivery address for these resources'></textarea>
 		
 		<label><input type='checkbox' name='RequestedItems[]' value='Mark&apos;s Gospel' />Mark's Gospel</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='Exploring Christianity' />Exploring Christianity</label>
 		<label><input type='checkbox' name='RequestedItems[]' value='The Man on the Middle Cross' />The Man on the Middle Cross</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='Why in the world is there suffering? [Booklet]' />Why in the world is there suffering? [Booklet]</label>
-		<label><input type='checkbox' name='RequestedItems[]' value='Who is the Greatest Man Alive? [Booklet]' />Who is the Greatest Man Alive? [Booklet]</label>
 		
-		<textarea name='RequerterMessage' placeholder='Your personal note or message'></textarea>
+		<textarea name='RequesterMessage' placeholder='Your personal note or message'></textarea>
 		
 		<input type='submit' class='button btn-yellow' value='Submit'>
 	
