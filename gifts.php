@@ -24,20 +24,23 @@
 			<section class="gifts">
   				
 				<div>
-					<div class="img-wrapper"><img src="img/newtestament.jpg" loading="lazy" /></div>
-					<h4>New Testament</h4>
+					<div class="img-wrapper"><img src="img/ESVGospelOfMark.jpg" loading="lazy" /></div>
+					<h4>Mark's Gospel</h4>
+					<p>The 2nd of the gospels in the New Testament, which looks at the life of Jesus Christ.</p>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<div class="img-wrapper"><img src="img/johnsgospel.jpg" loading="lazy" /></div>
-					<h4>John's Gospel - Parallel edition in English and Irish</h4>
+					<div class="img-wrapper"><img src="img/ExploringChristianityCover.jpg" loading="lazy" /></div>
+					<h4>Exploring Christianity</h4>
+					<p>This short booklet answers some of life's biggest questions and introduces you to the "something more' you've been searching for!</p>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<div class="img-wrapper"><img src="img/lukesgospel.jpg" loading="lazy" /></div>
-					<h4>Luke's gospel</h4>
+					<div class="img-wrapper"><img src="img/TheManOnTheMiddleCross.jpg" loading="lazy" /></div>
+					<h4>The Man on the Middle Cross</h4>
+					<p>This booklet introduces 3 people who had their lives changed when they met Jesus. The author explains how this offer is open to all who come to Jesus.</p>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 				
