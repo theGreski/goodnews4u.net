@@ -24,38 +24,20 @@
 			<section class="gifts">
   				
 				<div>
-					<img src="img/newtestament.jpg" loading="lazy" />
+					<div class="img-wrapper"><img src="img/newtestament.jpg" loading="lazy" /></div>
 					<h4>New Testament</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/johnsgospel.jpg" loading="lazy" />
+					<div class="img-wrapper"><img src="img/johnsgospel.jpg" loading="lazy" /></div>
 					<h4>John's Gospel - Parallel edition in English and Irish</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 
 				<div>
-					<img src="img/lukesgospel.jpg" loading="lazy" />
+					<div class="img-wrapper"><img src="img/lukesgospel.jpg" loading="lazy" /></div>
 					<h4>Luke's gospel</h4>
-					<a href='contact' class='button btn-grey media-button'>Request One</a>
-				</div>
-
-				<div>
-					<img src="img/whyjesus.jpg" loading="lazy" />
-					<h4>Why Jesus</h4>
-					<a href='contact' class='button btn-grey media-button'>Request One</a>
-				</div>
-
-				<div>
-					<img src="img/WhyInTheWorldIsThereSuffering.jpg" loading="lazy" />
-					<h4>Why in the world is there suffering?</h4>
-					<a href='contact' class='button btn-grey media-button'>Request One</a>
-				</div>
-				
-				<div>
-					<img src="img/TheGreatestManAlive.jpg" loading="lazy" />
-					<h4>Who is the Greatest Man Alive?</h4>
 					<a href='contact' class='button btn-grey media-button'>Request One</a>
 				</div>
 				
