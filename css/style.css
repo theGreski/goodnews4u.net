@@ -375,13 +375,16 @@ article > p:after {
 	/* Just in case there are inline attributes */
 	width: 100% !important;
 	/*height: auto !important;*/
-	display: inline-block;
+	display: block;
 	box-sizing: border-box;
 	margin: 1em 0;
 	padding: 0;
 	box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
 	border: thin solid rgb(187, 187, 187);
 	background-color: #ffffff;
+}
+.gifts > div:first-child {
+	margin-top: 0;
 }
 .gifts > div > div.img-wrapper {
 	overflow: hidden;
